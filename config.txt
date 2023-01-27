@@ -1,0 +1,12 @@
+save_pw_path:saved_stuff/saved_pws.snnc2
+sep_input_char: 
+sep_input_char_alt0:(
+sep_input_char_alt1:)
+show_debug_stuff:True
+show_input_time:True
+show_output_time:False
+use_saved_pw:True
+saved_dirs_path:saved_stuff/saved_dirs.txt
+use_saved_dirs:True
+use_saved_ccs:True
+saved_ccs_path:saved_stuff/saved_ccs.txt

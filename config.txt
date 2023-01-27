@@ -5,7 +5,7 @@ sep_input_char_alt1:)
 show_debug_stuff:True
 show_input_time:True
 show_output_time:False
-use_saved_pw:True
+use_saved_pw:False
 saved_dirs_path:saved_dirs.txt
 use_saved_dirs:True
 use_saved_ccs:True

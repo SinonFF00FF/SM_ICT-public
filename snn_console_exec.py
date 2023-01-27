@@ -209,39 +209,6 @@ class callable_fkt:
     (but still ugly but idk how to do it better rn and I think I will stick to this method of doing it)"""
 
     @staticmethod
-    def funfact1():
-        """the first fight club fkt ^^"""
-        print("Sinon and FF00FF are the same person just some neet that enjoys writing code")
-
-    @staticmethod
-    def funfact2():
-        """the second fight club fkt ^^"""
-        print("nobody likes people that like python or pineapple pizza ...")
-        time.sleep(0.5)
-        print("maybe that is the reason why I/we dont have friends")
-
-    @staticmethod
-    def funfact3():
-        """the third fight club fkt ^^"""
-        print("I dont think that anybody will ever read this shit so I can keep writing this stuff() "
-              "(I/we definitely dont do this funfact bs because I/we have no clue how to write okay fkts)")
-
-    @staticmethod
-    def funfact4():
-        """the 4th fight club fkt ^^"""
-        print("I really hope I will delete this ship before I/we make this thing public")
-        time.sleep(0.5)
-        print("maybe some shit posting will lower the pain somebody will feel if he/she reads this super nice written "
-              "code \n(maybe it will be much bigger because of this idk idc rn)")
-
-    @staticmethod
-    def funfact5():
-        """the 5th fight club fkt ^^"""
-        print("to this point this console stuff is way better to write than some tkinter bs (I really dont like to"
-              "write UIs and except the fact that I dont find a way to use some file dialog that works without tkinter"
-              "all works fine till now)")
-
-    @staticmethod
     def sum(*args):
         """just some testing stuff delete later"""
         a = 0
